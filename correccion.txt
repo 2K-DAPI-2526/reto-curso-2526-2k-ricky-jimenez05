@@ -1,0 +1,2 @@
+no deja resolver el laberinto, simplementa te da la solución y ya.
+
